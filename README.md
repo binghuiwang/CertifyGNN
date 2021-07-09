@@ -1,5 +1,5 @@
 # CertifyGNN
-Source code of "Certified Robustness of Graph Neural Networks against Adversarial Structural Perturbation""
+Source code of "Certified Robustness of Graph Neural Networks against Adversarial Structural Perturbation", accepted by ACM SIGKDD'21
 
 1. There are two different ways to train the GNN model: 
 I) Train on the raw clean graph (train_edge); 
