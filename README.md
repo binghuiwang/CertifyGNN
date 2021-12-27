@@ -12,3 +12,4 @@ III)  Obtain the certified accuracy by running calculate_certify_K.py if not run
  
 3. Note that the certified accuracy could be slightly changed due to 1) randomness during the training and 2) random perturbations
  
+4. CertifyGraphClassification.zip contains the source code of certifying robustness of graph classification (i.e, GIN).
